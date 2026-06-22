@@ -6,7 +6,7 @@ It works only with 55x67 or 115x67 sized PNG images, and can only handle UNIT.DB
 Tutorial video:
 https://www.youtube.com/watch?v=5cDO1W_Qvsk
 
-changes: In 2.6 version its possible to encode images with longer bytelength into shorter bytelength images.
+changes: Version 2.6 can handle images whose encoded byte length exceeds the original record.
 
 
 <img width="1723" height="727" alt="image" src="https://github.com/user-attachments/assets/b2ad4e28-dc9e-41d1-868b-55a43a8e5494" />
