@@ -39,7 +39,7 @@ enter
 	type: python fd_portrait_codec_v2_10.py encode CFDW0048.png UNIT.DBI IMGGRAB.BIN
 
 	(you can write your custom images here (CFDW0048.png is a sample image)
-	Images should be 55x67 or 115x67 scaled)
+	Images should be 55x67 or 115x67 scaled and in PNG format)
 
 	(if you encode a new image it will automatically generate a new slot and code for it
 	(starting with GP001S00))
@@ -48,7 +48,7 @@ enter
 	python fd_portrait_codec_v2_10.py replace CFDW0048.png UNIT.DBI FD026S00 IMGGRAB.BIN
 
 	(you can write your custom images here (CFDW0048.png is a sample image)
-	Images should be 55x67 or 115x67 scaled)
+	Images should be 55x67 or 115x67 scaled and in PNG format)
 	(you can choose which original portrait you would like to replace (FD026S00 for example)
 
 
