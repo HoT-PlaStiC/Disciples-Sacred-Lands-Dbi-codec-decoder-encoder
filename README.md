@@ -20,7 +20,9 @@ new command: info (it will show you the commands you can use with this script)
 new settings: you can set the language beetween english, russian, and polish, usage:
 
 python fd_portrait_codec_v2_36.py --lang=en
+
 python fd_portrait_codec_v2_36.py --lang=ru
+
 python fd_portrait_codec_v2_36.py --lang=pl
 
 Please note, that this version can perfectly handle Unit portraits, but other functions needs to be tested!
