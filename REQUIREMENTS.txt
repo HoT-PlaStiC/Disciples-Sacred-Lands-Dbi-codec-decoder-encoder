@@ -1,0 +1,5 @@
+First you need install python: https://www.python.org/downloads/release/python-3146/
+
+Then you need to install pillow in Powershell:
+
+python -m pip install pillow
