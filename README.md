@@ -21,9 +21,13 @@ new settings: you can set the language beetween english, russian, and polish, us
 
 python fd_portrait_codec_v2_36.py --lang=en
 
+
 python fd_portrait_codec_v2_36.py --lang=ru
 
+
 python fd_portrait_codec_v2_36.py --lang=pl
+
+
 
 Please note, that this version can perfectly handle Unit portraits, but other functions needs to be tested!
 
