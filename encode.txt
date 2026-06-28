@@ -1,1 +1,7 @@
-python fd_portrait_codec_v2_10.py encode CFDW0048.png UNIT.DBI IMGGRAB.BIN
+python fd_portrait_codec_v2_36.py encode CFDW0048.png UNIT.DBI
+
+(Will create a new record into UNIT.DBI (name automatically generated, or can given by the user))
+
+python fd_portrait_codec_v2_36.py encode CFDW0048.png any.DBI FHU0099
+
+(Will create a new record with the given name (FHU0099 is a sample))
