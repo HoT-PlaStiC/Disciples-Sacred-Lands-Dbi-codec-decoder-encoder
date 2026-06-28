@@ -18,7 +18,7 @@ new command flag: ow (written on the end of the command line it will replace the
 of creating a new one while replacing or encoding an image)
 new command: info (it will show you the commands you can use with this script)
 new settings: you can set the language beetween english, russian, and polish, usage:
---lang=en, --lang=ru, ---lang=pl
+--lang=en, --lang=ru, --lang=pl
 Please note, that this version can perfectly handle Unit portraits, but other functions needs to be tested!
 
 
